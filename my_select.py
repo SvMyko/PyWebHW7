@@ -138,7 +138,7 @@ if __name__ == "__main__":
         4 - Calculate the overall average grade across all grades.
         5 - List the subjects taught by a specific teacher.
         6- Find the list of students in a specific group. 
-        7 query_7.sql - Get the grades of students in a particular group for a specific subject.
+        7 - Get the grades of students in a particular group for a specific subject.
         8 - Calculate the average grade given by a specific teacher across all their subjects.
         9 - Find the list of courses attended by a specific student.
         10 - Find the list of courses a specific teacher teaches to a particular student.
